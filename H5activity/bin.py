@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
+# 通过对mongodb和redis的操作来对H5游戏的金币数据进行修改的一个小项目
+# 这是入口文件
+# verison：1.0.0
+# author: theon
+# email: 305958872@qq.com
 import os
 import platform
 import sys
@@ -26,8 +31,8 @@ def main():
     li=mymongo.choose_to_li(last_time,now_time)
     myredis = redisapp.RedisApp(li)
     mymongo.mongoclose()
-    myredis.put_in_redis()  
-    myredis.get_record()   
+    myredis.put_in_redis()  #记录数据录入redis
+    myredis.get_record()    #根据记录增加用户金币，最后更新记录
     myredis.close_reids()
 
 if __name__ == '__main__':

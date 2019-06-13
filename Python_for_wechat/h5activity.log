@@ -1,0 +1,119 @@
+
+2019-06-13 15:47:51 --- INFO: --- redis connect successfull
+2019-06-13 15:47:51 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 15:47:51 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 15:47:51 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:50:05 --- INFO: --- redis connect successfull
+2019-06-13 16:50:05 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:50:05 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:50:05 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:50:05 --- INFO: --- user id 10000003  will plus gold  80 
+2019-06-13 16:50:05 --- INFO: --- user id 10000003  bingo count change to  0 
+2019-06-13 16:50:05 --- INFO: --- user id 10000003  unbingo count change to  2 
+2019-06-13 16:51:41 --- INFO: --- redis connect successfull
+2019-06-13 16:51:41 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:41 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:41 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:41 --- INFO: --- user id 10000003  will plus gold  180 
+2019-06-13 16:51:41 --- INFO: --- user id 10000003  bingo count change to  0 
+2019-06-13 16:51:41 --- INFO: --- user id 10000003  unbingo count change to  0 
+2019-06-13 16:51:51 --- INFO: --- redis connect successfull
+2019-06-13 16:51:51 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:51 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:51 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:51 --- INFO: --- user id 10000003  will plus gold  180 
+2019-06-13 16:51:51 --- INFO: --- user id 10000003  bingo count change to  0 
+2019-06-13 16:51:51 --- INFO: --- user id 10000003  unbingo count change to  3 
+2019-06-13 16:51:56 --- INFO: --- redis connect successfull
+2019-06-13 16:51:56 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:56 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:56 --- INFO: --- user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:51:56 --- INFO: --- user id 10000003  will plus gold  200 
+2019-06-13 16:51:56 --- INFO: --- user id 10000003  bingo count change to  0 
+2019-06-13 16:51:56 --- INFO: --- user id 10000003  unbingo count change to  1 
+2019-06-13 16:52:38 --- INFO:redis connect successfull
+2019-06-13 16:52:38 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:52:38 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:52:38 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 16:52:38 --- INFO:user id 10000003  will plus gold  200 
+2019-06-13 16:52:38 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 16:52:38 --- INFO:user id 10000003  unbingo count change to  4 
+2019-06-13 17:23:38 --- INFO:redis connect successfull
+2019-06-13 17:23:38 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:23:38 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:23:38 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:23:38 --- INFO:user id 10000003  will plus gold  220 
+2019-06-13 17:23:38 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 17:23:38 --- INFO:user id 10000003  unbingo count change to  2 
+2019-06-13 17:23:38 --- INFO:user id 10000003  bingo count change in redis done
+2019-06-13 17:23:38 --- INFO:user id 10000003  unbingo count change in redis done
+2019-06-13 17:46:57 --- INFO:redis connect successfull
+2019-06-13 17:46:57 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:46:57 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:46:57 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:46:57 --- INFO:user id 10000003  will plus gold  240 
+2019-06-13 17:46:57 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 17:46:57 --- INFO:user id 10000003  unbingo count change to  0 
+2019-06-13 17:46:57 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 17:46:57 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 17:46:57 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 0
+2019-06-13 17:47:59 --- INFO:redis connect successfull
+2019-06-13 17:47:59 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:47:59 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:47:59 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:47:59 --- INFO:user id 10000003  will plus gold  0 
+2019-06-13 17:47:59 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 17:47:59 --- INFO:user id 10000003  unbingo count change to  3 
+2019-06-13 17:47:59 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 17:47:59 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 17:47:59 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 3
+2019-06-13 17:48:28 --- INFO:redis connect successfull
+2019-06-13 17:48:28 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:48:28 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:48:28 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 17:48:28 --- INFO:user id 10000003  will plus gold  20 
+2019-06-13 17:48:28 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 17:48:28 --- INFO:user id 10000003  unbingo count change to  1 
+2019-06-13 17:48:28 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 17:48:28 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 17:48:28 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 1
+2019-06-13 18:03:36 --- INFO:redis connect successfull
+2019-06-13 18:03:36 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:03:36 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:03:36 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:03:36 --- INFO:user id 10000003  will plus gold  0 
+2019-06-13 18:03:36 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 18:03:36 --- INFO:user id 10000003  unbingo count change to  4 
+2019-06-13 18:03:36 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 18:03:36 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 18:03:36 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 4
+2019-06-13 18:04:40 --- INFO:redis connect successfull
+2019-06-13 18:04:40 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:04:40 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:04:40 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:04:40 --- INFO:user id 10000003  will plus gold  20 
+2019-06-13 18:04:40 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 18:04:40 --- INFO:user id 10000003  unbingo count change to  2 
+2019-06-13 18:04:40 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 18:04:40 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 18:04:40 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 2
+2019-06-13 18:05:18 --- INFO:redis connect successfull
+2019-06-13 18:05:18 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:05:18 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:05:18 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:05:18 --- INFO:user id 10000003  will plus gold  20 
+2019-06-13 18:05:18 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 18:05:18 --- INFO:user id 10000003  unbingo count change to  0 
+2019-06-13 18:05:18 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 18:05:18 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 18:05:18 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 0
+2019-06-13 18:08:47 --- INFO:redis connect successfull
+2019-06-13 18:08:47 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:08:47 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:08:47 --- INFO:user's who id is  10000003 identifiy unbingo is +1
+2019-06-13 18:08:47 --- INFO:user id 10000003  will plus gold  0 
+2019-06-13 18:08:47 --- INFO:user id 10000003  bingo count change to  0 
+2019-06-13 18:08:47 --- INFO:user id 10000003  unbingo count change to  3 
+2019-06-13 18:08:47 --- INFO:user id 10000003  gold change is compeleted
+2019-06-13 18:08:47 --- INFO:user id 10000003  bingo count change in redis is compeleted  now is 0
+2019-06-13 18:08:47 --- INFO:user id 10000003  unbingo count change in redis is compeleted  now is 3

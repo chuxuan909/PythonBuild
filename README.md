@@ -14,5 +14,15 @@ python调用微信的消息通知API的脚本，执行该脚本可以实现自�
 
 具体使用案例，参考：https://www.yuque.com/ppsha/deploy/qpkeip
 
+## H5activity
+
+通过对mongodb和redis的操作来对H5游戏的金币数据进行修改的一个小项目。该项目作为H5游戏的一个“小活动”而被发布。主要流程有：
+
+- 滚动从mongodb获取某个时间段的数据
+- 将获取到的数据存入redis
+- 操作数据，记录更新
+
+整个项目对数据库的操作居多，剩余的就是logging日志模块相关操作
+
 
 

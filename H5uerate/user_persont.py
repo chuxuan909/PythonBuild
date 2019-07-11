@@ -85,6 +85,9 @@ def date_oper(srt_time):
         sys.exit(600)
 
 def Satisfy_db(engine,reg_time,login_time):
+    '''
+    使用检测器循环的取出数据库内的每一张表
+    '''
     SessionCls = sessionmaker(bind=engine)
     session = SessionCls()
 
@@ -94,6 +97,10 @@ def Satisfy_db(engine,reg_time,login_time):
         query_db(table_name,session,reg_time,login_time)
 
 def query_db(table_name,session,reg_time,login_time):
+    '''
+    查询表内的数据
+    使用条件查询满足条件的记录并放入列表
+    '''
     ##日期处理##
     reg_time_later=date_oper(reg_time)
     login_time_later=date_oper(login_time)

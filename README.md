@@ -35,3 +35,18 @@ Python对zabbix的api的使用。利用zabbix的api我们可以直接使用pytho
 zabbix api的文档，参考：https://www.zabbix.com/documentation/3.4/zh/manual/api
 
 > zabbix3.4版本以下为英文文档，参考：https://www.zabbix.com/documentation/3.0/manual/api
+
+## H5uerate
+
+使用sqlalchemy对MySQL数据库进行统计，计算出用户的留存率的小项目。
+
+留存率举例讲解：
+
+假设2019-06-06日期注册用户有 1000 个
+
+假设2019-06-06日期注册用户并在2019-06-07又登录的用户有 400 个
+
+那么2019-06-06日期注册用户在2019-06-07留存率为： 400/1000 * 100 = 40%
+
+
+

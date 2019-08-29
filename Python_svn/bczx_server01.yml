@@ -1,0 +1,24 @@
+- name: restore_bczx_server01
+  hosts: test
+  remote_user: root
+  vars_files: 
+    - /opt/ansible/vars/main.yml
+  tasks:
+    - name: delete old projections
+      file: path={{ item }} state=absent 
+      with_items:
+          - /opt/Release_H5FishSvr
+          - /opt/Release_H5LSKSvr
+          - /opt/Release_PlatAdmin
+          - /opt/Release_PlatSvr
+          - /opt/Release_prizeQR
+          - /opt/Release_WechatServer      
+    - name: push projection dirs to target
+      unarchive: src=/opt/ansible/projects/{{ item }}.tar.gz dest=/opt
+      with_items:
+          - Release_H5FishSvr
+          - Release_H5LSKSvr
+          - Release_PlatAdmin
+          - Release_PlatSvr
+          - Release_prizeQR
+          - Release_WechatServer

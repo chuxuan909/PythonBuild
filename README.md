@@ -48,5 +48,10 @@ zabbix api的文档，参考：https://www.zabbix.com/documentation/3.4/zh/manua
 
 那么2019-06-06日期注册用户在2019-06-07留存率为： 400/1000 * 100 = 40%
 
+## Python_svn
 
+使用python进行SVN的checkout操作
+
+- 1.拉取出项目代码到本地，并压缩
+- 2.使用ansible将拉取的项目代码再部署到服务器上面去
 

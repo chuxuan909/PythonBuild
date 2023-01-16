@@ -55,3 +55,6 @@ zabbix api的文档，参考：https://www.zabbix.com/documentation/3.4/zh/manua
 - 1.拉取出项目代码到本地，并压缩
 - 2.使用ansible将拉取的项目代码再部署到服务器上面去
 
+## DissImage
+
+指定截取指定区域的图片，然后进行对比，利用了opensv库对图片进行对比
